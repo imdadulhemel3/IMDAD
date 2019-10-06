@@ -5,4 +5,4 @@ for i in range (2,Num):
     if(Num%i == 0):
          break
     else:
-         print (i , "is prime") 
+         print (Num , "is prime") 
